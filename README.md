@@ -3,3 +3,5 @@
 DAG.h 是隨機生成DAG圖  
 其他是根據IPPTS論文放下進行實作，和根據其他論文演算法進行測試改良  
 原論文：https://ieeexplore.ieee.org/document/9276443  
+
+如有錯誤請諒解
