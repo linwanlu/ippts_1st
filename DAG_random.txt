@@ -1,0 +1,1439 @@
+num_task:10
+DAG[0] = { 0, 25, 12, 58, 25, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 8, 0, 62, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 69, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 51, 30, 78, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 16, 51, 43, 12, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 43 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 43 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 76 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 52 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {12, 17, 7 };
+task[1].ComputationCosts = {59, 58, 23 };
+task[2].ComputationCosts = {44, 26, 20 };
+task[3].ComputationCosts = {12, 29, 23 };
+task[4].ComputationCosts = {53, 36, 42 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {35, 26, 37 };
+task[7].ComputationCosts = {30, 27, 28 };
+task[8].ComputationCosts = {7, 8, 13 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 72, 78, 64, 17, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 54, 52, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 11, 0, 49, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 36, 11, 9, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 18, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 52 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 55 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 47 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 76 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 18, 8 };
+task[1].ComputationCosts = {62, 61, 24 };
+task[2].ComputationCosts = {45, 27, 22 };
+task[3].ComputationCosts = {12, 30, 24 };
+task[4].ComputationCosts = {56, 38, 44 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {36, 27, 39 };
+task[7].ComputationCosts = {32, 29, 30 };
+task[8].ComputationCosts = {7, 8, 14 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 13, 73, 74, 58, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 0, 48, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 6, 59, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 56, 0, 0, 36, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 11, 78, 10, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 55 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 65 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 41 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 45 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 18, 8 };
+task[1].ComputationCosts = {65, 64, 25 };
+task[2].ComputationCosts = {48, 29, 23 };
+task[3].ComputationCosts = {12, 31, 24 };
+task[4].ComputationCosts = {59, 40, 46 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {38, 29, 41 };
+task[7].ComputationCosts = {34, 31, 32 };
+task[8].ComputationCosts = {7, 8, 14 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:11
+DAG[0] = { 0, 84, 35, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 46, 69, 15, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 65, 80, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 56, 0, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 53, 80, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 65 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {67, 45, 52 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {43, 32, 46 };
+task[3].ComputationCosts = {37, 34, 35 };
+task[4].ComputationCosts = {8, 10, 15 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {6, 17, 15 };
+task[7].ComputationCosts = {22, 30, 47 };
+task[8].ComputationCosts = {13, 32, 25 };
+task[9].ComputationCosts = {15, 28, 12 };
+task[10].ComputationCosts = {4, 6, 8 };
+
+num_task:11
+DAG[0] = { 0, 7, 49, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 13, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 65, 40, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 67, 0, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 27, 0, 34, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 22, 56, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {44, 30, 35 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {29, 22, 31 };
+task[3].ComputationCosts = {25, 23, 24 };
+task[4].ComputationCosts = {6, 8, 12 };
+task[5].ComputationCosts = {4, 3, 8 };
+task[6].ComputationCosts = {4, 13, 12 };
+task[7].ComputationCosts = {15, 20, 31 };
+task[8].ComputationCosts = {9, 22, 17 };
+task[9].ComputationCosts = {11, 21, 8 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:10
+DAG[0] = { 0, 8, 76, 36, 84, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 18, 37, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 0, 0, 61, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 20, 0, 0, 43, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 23, 0, 29, 50, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 19 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 40 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 45 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 31 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {11, 16, 6 };
+task[1].ComputationCosts = {55, 54, 22 };
+task[2].ComputationCosts = {41, 24, 19 };
+task[3].ComputationCosts = {11, 27, 21 };
+task[4].ComputationCosts = {49, 33, 38 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {32, 24, 34 };
+task[7].ComputationCosts = {28, 26, 27 };
+task[8].ComputationCosts = {7, 8, 13 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:11
+DAG[0] = { 0, 68, 28, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 24, 80, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 12, 8, 42, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 0, 43, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 58, 0, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 83, 0, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 63 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {59, 40, 46 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {38, 29, 41 };
+task[3].ComputationCosts = {34, 31, 32 };
+task[4].ComputationCosts = {7, 8, 14 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {6, 16, 14 };
+task[7].ComputationCosts = {20, 26, 41 };
+task[8].ComputationCosts = {12, 28, 22 };
+task[9].ComputationCosts = {14, 26, 11 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:10
+DAG[0] = { 0, 17, 42, 82, 19, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 67, 0, 0, 11, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 69, 73, 74, 25, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 0, 0, 9, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 74, 0, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 48 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 16 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 22 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 48 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 18, 8 };
+task[1].ComputationCosts = {62, 61, 24 };
+task[2].ComputationCosts = {45, 27, 22 };
+task[3].ComputationCosts = {12, 30, 24 };
+task[4].ComputationCosts = {56, 38, 44 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {36, 27, 39 };
+task[7].ComputationCosts = {32, 29, 30 };
+task[8].ComputationCosts = {7, 8, 14 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 82, 47, 52, 84, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 82, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 80, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 20, 15, 49, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 58, 22, 0, 46, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 78 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 71 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 37 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 57 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {15, 21, 9 };
+task[1].ComputationCosts = {79, 78, 32 };
+task[2].ComputationCosts = {58, 35, 28 };
+task[3].ComputationCosts = {16, 37, 30 };
+task[4].ComputationCosts = {71, 49, 56 };
+task[5].ComputationCosts = {5, 9, 4 };
+task[6].ComputationCosts = {46, 34, 49 };
+task[7].ComputationCosts = {41, 37, 39 };
+task[8].ComputationCosts = {8, 10, 16 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 62, 15, 44, 37, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 84, 75, 67, 22, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 64, 80, 0, 10, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 60, 15, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 44, 37, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 66 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 20 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 50 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 46 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 19, 8 };
+task[1].ComputationCosts = {68, 66, 27 };
+task[2].ComputationCosts = {50, 30, 24 };
+task[3].ComputationCosts = {13, 32, 26 };
+task[4].ComputationCosts = {61, 41, 48 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {39, 29, 42 };
+task[7].ComputationCosts = {35, 32, 33 };
+task[8].ComputationCosts = {8, 9, 15 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 43, 41, 37, 75, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 27, 0, 55, 63, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 70, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 0, 30, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 69, 34, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 83 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 74 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 27 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 16 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 19, 8 };
+task[1].ComputationCosts = {71, 69, 28 };
+task[2].ComputationCosts = {52, 32, 25 };
+task[3].ComputationCosts = {13, 33, 26 };
+task[4].ComputationCosts = {64, 43, 50 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {41, 31, 44 };
+task[7].ComputationCosts = {36, 33, 34 };
+task[8].ComputationCosts = {8, 9, 15 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 49, 26, 27, 19, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 18, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 0, 74, 13, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 61, 0, 51, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 84, 29, 0, 55, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 76 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 8 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 19 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 30 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {12, 17, 7 };
+task[1].ComputationCosts = {57, 56, 23 };
+task[2].ComputationCosts = {42, 25, 20 };
+task[3].ComputationCosts = {11, 28, 22 };
+task[4].ComputationCosts = {51, 35, 40 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {33, 25, 35 };
+task[7].ComputationCosts = {29, 27, 28 };
+task[8].ComputationCosts = {7, 8, 13 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:11
+DAG[0] = { 0, 61, 58, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 22, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 26, 20, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 61, 57, 33, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 50, 0, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 15, 0, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 39, 55, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 53 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {55, 37, 43 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {36, 27, 38 };
+task[3].ComputationCosts = {31, 28, 29 };
+task[4].ComputationCosts = {7, 8, 14 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {6, 15, 14 };
+task[7].ComputationCosts = {19, 25, 39 };
+task[8].ComputationCosts = {11, 26, 21 };
+task[9].ComputationCosts = {13, 24, 10 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:10
+DAG[0] = { 0, 67, 39, 40, 63, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 0, 33, 33, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 14, 8, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 0, 42, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 79, 0, 0, 65, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 37 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 80 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 56 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 70 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 19, 8 };
+task[1].ComputationCosts = {70, 68, 28 };
+task[2].ComputationCosts = {51, 30, 24 };
+task[3].ComputationCosts = {13, 32, 26 };
+task[4].ComputationCosts = {63, 43, 49 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {40, 30, 43 };
+task[7].ComputationCosts = {36, 32, 34 };
+task[8].ComputationCosts = {8, 9, 15 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 7, 81, 70, 32, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 38, 0, 0, 76, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 0, 8, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 31, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 8, 84, 81, 25, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 78 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 35 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 81 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 25 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 19, 8 };
+task[1].ComputationCosts = {68, 66, 27 };
+task[2].ComputationCosts = {50, 30, 24 };
+task[3].ComputationCosts = {13, 32, 26 };
+task[4].ComputationCosts = {61, 41, 48 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {39, 29, 42 };
+task[7].ComputationCosts = {35, 32, 33 };
+task[8].ComputationCosts = {8, 9, 15 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:11
+DAG[0] = { 0, 80, 34, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 61, 0, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 45, 45, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 40, 57, 25, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 76, 22, 29, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 41, 0, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 76, 0, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 59, 66, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 83 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {65, 44, 51 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {42, 31, 45 };
+task[3].ComputationCosts = {37, 34, 35 };
+task[4].ComputationCosts = {8, 10, 15 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {6, 17, 15 };
+task[7].ComputationCosts = {22, 29, 46 };
+task[8].ComputationCosts = {13, 31, 25 };
+task[9].ComputationCosts = {15, 28, 12 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:10
+DAG[0] = { 0, 24, 13, 6, 49, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 29, 0, 0, 57, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 18, 37, 0, 77, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 15, 10, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 70, 0, 78, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 60 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 46 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 57 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 34 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {12, 17, 7 };
+task[1].ComputationCosts = {58, 57, 23 };
+task[2].ComputationCosts = {43, 26, 20 };
+task[3].ComputationCosts = {11, 28, 22 };
+task[4].ComputationCosts = {52, 35, 41 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {34, 25, 36 };
+task[7].ComputationCosts = {30, 27, 28 };
+task[8].ComputationCosts = {7, 8, 13 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:11
+DAG[0] = { 0, 28, 83, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 11, 40, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 80, 0, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 11, 5, 59, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 0, 67, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 66, 0, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 53 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {57, 39, 45 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {37, 28, 40 };
+task[3].ComputationCosts = {32, 29, 30 };
+task[4].ComputationCosts = {7, 8, 14 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {6, 16, 14 };
+task[7].ComputationCosts = {20, 26, 41 };
+task[8].ComputationCosts = {12, 28, 22 };
+task[9].ComputationCosts = {13, 25, 10 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:11
+DAG[0] = { 0, 77, 10, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 51, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 0, 79, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 7, 16, 44, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 19, 0, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 32, 0, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 58 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 80 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {53, 36, 42 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {35, 26, 37 };
+task[3].ComputationCosts = {30, 27, 28 };
+task[4].ComputationCosts = {7, 8, 13 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {6, 15, 14 };
+task[7].ComputationCosts = {18, 24, 38 };
+task[8].ComputationCosts = {11, 26, 21 };
+task[9].ComputationCosts = {13, 24, 10 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:11
+DAG[0] = { 0, 77, 10, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 51, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 0, 79, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 7, 16, 44, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 19, 0, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 32, 0, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 58 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 80 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {53, 36, 42 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {35, 26, 37 };
+task[3].ComputationCosts = {30, 27, 28 };
+task[4].ComputationCosts = {7, 8, 13 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {6, 15, 14 };
+task[7].ComputationCosts = {18, 24, 38 };
+task[8].ComputationCosts = {11, 26, 21 };
+task[9].ComputationCosts = {13, 24, 10 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:11
+DAG[0] = { 0, 30, 11, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 9, 51, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 69, 31, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 23, 0, 48, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 76, 44, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 65, 71, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 67, 0, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 43 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {56, 38, 44 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {36, 27, 39 };
+task[3].ComputationCosts = {32, 29, 30 };
+task[4].ComputationCosts = {7, 8, 14 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {6, 15, 14 };
+task[7].ComputationCosts = {19, 25, 40 };
+task[8].ComputationCosts = {11, 27, 21 };
+task[9].ComputationCosts = {13, 25, 10 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:10
+DAG[0] = { 0, 22, 18, 71, 42, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 53, 0, 76, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 8, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 48, 69, 0, 41, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 51, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 41 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 16 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 14 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 47 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {12, 17, 7 };
+task[1].ComputationCosts = {59, 58, 23 };
+task[2].ComputationCosts = {44, 26, 20 };
+task[3].ComputationCosts = {12, 29, 23 };
+task[4].ComputationCosts = {53, 36, 42 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {35, 26, 37 };
+task[7].ComputationCosts = {30, 27, 28 };
+task[8].ComputationCosts = {7, 8, 13 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 22, 18, 71, 42, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 53, 0, 76, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 8, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 48, 69, 0, 41, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 51, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 41 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 16 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 14 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 47 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {12, 17, 7 };
+task[1].ComputationCosts = {59, 58, 23 };
+task[2].ComputationCosts = {44, 26, 20 };
+task[3].ComputationCosts = {12, 29, 23 };
+task[4].ComputationCosts = {53, 36, 42 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {35, 26, 37 };
+task[7].ComputationCosts = {30, 27, 28 };
+task[8].ComputationCosts = {7, 8, 13 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 26, 80, 80, 33, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 0, 22, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 77, 0, 83, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 6, 43, 73, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 0, 27, 28, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 32 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 20 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 57 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 14 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 18, 8 };
+task[1].ComputationCosts = {62, 61, 24 };
+task[2].ComputationCosts = {45, 27, 22 };
+task[3].ComputationCosts = {12, 30, 24 };
+task[4].ComputationCosts = {56, 38, 44 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {36, 27, 39 };
+task[7].ComputationCosts = {32, 29, 30 };
+task[8].ComputationCosts = {7, 8, 14 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 13, 12, 22, 24, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 10, 0, 31, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 34, 0, 16, 20, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 67, 0, 0, 64, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 25, 66, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 14 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 63 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 10 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 31 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {10, 14, 5 };
+task[1].ComputationCosts = {43, 42, 17 };
+task[2].ComputationCosts = {32, 19, 15 };
+task[3].ComputationCosts = {8, 22, 17 };
+task[4].ComputationCosts = {39, 27, 31 };
+task[5].ComputationCosts = {4, 7, 3 };
+task[6].ComputationCosts = {26, 20, 28 };
+task[7].ComputationCosts = {22, 20, 21 };
+task[8].ComputationCosts = {5, 7, 11 };
+task[9].ComputationCosts = {4, 3, 8 };
+
+num_task:10
+DAG[0] = { 0, 19, 82, 7, 80, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 81, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 76, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 0, 11, 11, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 52, 0, 58, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 83 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 76 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 40 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 68 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {15, 21, 9 };
+task[1].ComputationCosts = {76, 75, 30 };
+task[2].ComputationCosts = {56, 34, 27 };
+task[3].ComputationCosts = {14, 35, 28 };
+task[4].ComputationCosts = {69, 47, 54 };
+task[5].ComputationCosts = {5, 9, 4 };
+task[6].ComputationCosts = {44, 33, 47 };
+task[7].ComputationCosts = {39, 36, 37 };
+task[8].ComputationCosts = {8, 10, 16 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 58, 73, 67, 42, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 75, 0, 23, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 21, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 42, 0, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 0, 80, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 45 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 39 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 81 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 20 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {14, 20, 8 };
+task[1].ComputationCosts = {74, 72, 29 };
+task[2].ComputationCosts = {54, 32, 26 };
+task[3].ComputationCosts = {14, 34, 27 };
+task[4].ComputationCosts = {67, 45, 52 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {43, 32, 46 };
+task[7].ComputationCosts = {37, 34, 35 };
+task[8].ComputationCosts = {8, 10, 15 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 14, 63, 83, 50, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 46, 0, 0, 48, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 8, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 0, 0, 19, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 0, 48, 60, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 26 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 78 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 33 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 60 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 18, 8 };
+task[1].ComputationCosts = {65, 64, 25 };
+task[2].ComputationCosts = {48, 29, 23 };
+task[3].ComputationCosts = {12, 31, 24 };
+task[4].ComputationCosts = {59, 40, 46 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {38, 29, 41 };
+task[7].ComputationCosts = {34, 31, 32 };
+task[8].ComputationCosts = {7, 8, 14 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:11
+DAG[0] = { 0, 28, 22, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 44, 80, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 56, 50, 75, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 79, 53, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 53, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 59 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 58 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {65, 44, 51 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {42, 31, 45 };
+task[3].ComputationCosts = {37, 34, 35 };
+task[4].ComputationCosts = {8, 10, 15 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {6, 17, 15 };
+task[7].ComputationCosts = {22, 29, 46 };
+task[8].ComputationCosts = {13, 31, 25 };
+task[9].ComputationCosts = {15, 28, 12 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:10
+DAG[0] = { 0, 34, 29, 22, 76, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 0, 30, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 0, 43, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 24, 0, 43, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 75, 0, 75, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 75 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 74 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 31 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 30 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 19, 8 };
+task[1].ComputationCosts = {68, 66, 27 };
+task[2].ComputationCosts = {50, 30, 24 };
+task[3].ComputationCosts = {13, 32, 26 };
+task[4].ComputationCosts = {61, 41, 48 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {39, 29, 42 };
+task[7].ComputationCosts = {35, 32, 33 };
+task[8].ComputationCosts = {8, 9, 15 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 14, 16, 74, 36, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 78, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 55, 0, 23, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 83, 0, 63, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 59, 7, 78, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 28 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 49 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 79 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 58 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {14, 20, 8 };
+task[1].ComputationCosts = {73, 71, 29 };
+task[2].ComputationCosts = {53, 32, 25 };
+task[3].ComputationCosts = {13, 33, 26 };
+task[4].ComputationCosts = {65, 44, 51 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {42, 31, 45 };
+task[7].ComputationCosts = {37, 34, 35 };
+task[8].ComputationCosts = {8, 10, 15 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:11
+DAG[0] = { 0, 80, 73, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 18, 18, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 82, 50, 30, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 6, 73, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 56 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {51, 35, 40 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {33, 25, 35 };
+task[3].ComputationCosts = {29, 27, 28 };
+task[4].ComputationCosts = {7, 8, 13 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {6, 15, 14 };
+task[7].ComputationCosts = {17, 23, 36 };
+task[8].ComputationCosts = {10, 25, 20 };
+task[9].ComputationCosts = {11, 22, 8 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:10
+DAG[0] = { 0, 41, 37, 31, 53, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 0, 0, 44, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 57, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 77, 0, 10, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 78, 0, 70, 40, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 84 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 24 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 70 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 46 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {14, 20, 8 };
+task[1].ComputationCosts = {73, 71, 29 };
+task[2].ComputationCosts = {53, 32, 25 };
+task[3].ComputationCosts = {13, 33, 26 };
+task[4].ComputationCosts = {65, 44, 51 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {42, 31, 45 };
+task[7].ComputationCosts = {37, 34, 35 };
+task[8].ComputationCosts = {8, 10, 15 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 7, 27, 19, 9, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 42, 67, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 80, 0, 0, 79, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 7, 58, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 38, 84, 23, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 62 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 51 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 23 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 47 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {12, 17, 7 };
+task[1].ComputationCosts = {61, 60, 24 };
+task[2].ComputationCosts = {45, 27, 21 };
+task[3].ComputationCosts = {12, 29, 23 };
+task[4].ComputationCosts = {55, 37, 43 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {36, 27, 38 };
+task[7].ComputationCosts = {31, 28, 29 };
+task[8].ComputationCosts = {7, 8, 14 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 28, 16, 45, 44, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 21, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 33, 0, 0, 60, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 75, 0, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 0, 13, 63, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 33 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 66 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 23 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 10 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {11, 16, 6 };
+task[1].ComputationCosts = {54, 53, 22 };
+task[2].ComputationCosts = {39, 24, 19 };
+task[3].ComputationCosts = {11, 26, 21 };
+task[4].ComputationCosts = {48, 33, 38 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {32, 24, 34 };
+task[7].ComputationCosts = {28, 25, 26 };
+task[8].ComputationCosts = {6, 8, 12 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 6, 62, 55, 61, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 43, 0, 65, 73, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 56, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 57, 54, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 22, 49, 64, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 11 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 42 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 23 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 10 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 18, 8 };
+task[1].ComputationCosts = {64, 63, 25 };
+task[2].ComputationCosts = {47, 28, 23 };
+task[3].ComputationCosts = {12, 31, 24 };
+task[4].ComputationCosts = {57, 39, 45 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {37, 28, 40 };
+task[7].ComputationCosts = {32, 29, 30 };
+task[8].ComputationCosts = {7, 8, 14 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 45, 75, 77, 64, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 23, 0, 9, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 83, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 0, 14, 27, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 84, 0, 27, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 14 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 19 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 27 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 17 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {12, 17, 7 };
+task[1].ComputationCosts = {58, 57, 23 };
+task[2].ComputationCosts = {43, 26, 20 };
+task[3].ComputationCosts = {11, 28, 22 };
+task[4].ComputationCosts = {52, 35, 41 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {34, 25, 36 };
+task[7].ComputationCosts = {30, 27, 28 };
+task[8].ComputationCosts = {7, 8, 13 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:11
+DAG[0] = { 0, 63, 14, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 66, 0, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 57, 16, 0, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 27, 55, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 7, 57, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 61, 53, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 20, 0, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 81 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 41 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {55, 37, 43 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {36, 27, 38 };
+task[3].ComputationCosts = {31, 28, 29 };
+task[4].ComputationCosts = {7, 8, 14 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {6, 15, 14 };
+task[7].ComputationCosts = {19, 25, 39 };
+task[8].ComputationCosts = {11, 26, 21 };
+task[9].ComputationCosts = {13, 24, 10 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:10
+DAG[0] = { 0, 44, 10, 79, 34, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 0, 72, 60, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 45, 10, 84, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 70, 0, 5, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 51, 0, 48, 71, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 44 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 33 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 42 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 14 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 18, 8 };
+task[1].ComputationCosts = {65, 64, 25 };
+task[2].ComputationCosts = {48, 29, 23 };
+task[3].ComputationCosts = {12, 31, 24 };
+task[4].ComputationCosts = {59, 40, 46 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {38, 29, 41 };
+task[7].ComputationCosts = {34, 31, 32 };
+task[8].ComputationCosts = {7, 8, 14 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 82, 72, 20, 43, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 67, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 30, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 52, 0, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 15, 0, 84, 71, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 39 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 64 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 71 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 81 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {15, 21, 9 };
+task[1].ComputationCosts = {80, 79, 33 };
+task[2].ComputationCosts = {59, 35, 28 };
+task[3].ComputationCosts = {16, 37, 30 };
+task[4].ComputationCosts = {72, 49, 57 };
+task[5].ComputationCosts = {5, 9, 4 };
+task[6].ComputationCosts = {46, 35, 50 };
+task[7].ComputationCosts = {41, 38, 39 };
+task[8].ComputationCosts = {8, 10, 16 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 60, 54, 19, 27, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 0, 0, 58, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 54, 0, 0, 58, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 69, 0, 15, 42, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 27, 46, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 22 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 15 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 84 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 5 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {12, 17, 7 };
+task[1].ComputationCosts = {58, 57, 23 };
+task[2].ComputationCosts = {43, 26, 20 };
+task[3].ComputationCosts = {11, 28, 22 };
+task[4].ComputationCosts = {52, 35, 41 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {34, 25, 36 };
+task[7].ComputationCosts = {30, 27, 28 };
+task[8].ComputationCosts = {7, 8, 13 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 14, 32, 32, 12, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 47, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 80, 66, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 27, 27, 27, 51, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 79, 0, 23, 15, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 60 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 65 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 26 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 15 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {11, 16, 6 };
+task[1].ComputationCosts = {55, 54, 22 };
+task[2].ComputationCosts = {41, 24, 19 };
+task[3].ComputationCosts = {11, 27, 21 };
+task[4].ComputationCosts = {49, 33, 38 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {32, 24, 34 };
+task[7].ComputationCosts = {28, 26, 27 };
+task[8].ComputationCosts = {7, 8, 13 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 63, 34, 11, 48, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 22, 29, 56, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 5, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 76, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 16, 32, 59, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 50 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 61 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 66 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 48 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {12, 17, 7 };
+task[1].ComputationCosts = {61, 60, 24 };
+task[2].ComputationCosts = {45, 27, 21 };
+task[3].ComputationCosts = {12, 29, 23 };
+task[4].ComputationCosts = {55, 37, 43 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {36, 27, 38 };
+task[7].ComputationCosts = {31, 28, 29 };
+task[8].ComputationCosts = {7, 8, 14 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:10
+DAG[0] = { 0, 56, 67, 31, 71, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 0, 0, 64, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 57, 51, 61, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 69, 39, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 0, 0, 29, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 55 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 74 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 81 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 74 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {15, 22, 9 };
+task[1].ComputationCosts = {83, 82, 34 };
+task[2].ComputationCosts = {61, 37, 29 };
+task[3].ComputationCosts = {16, 39, 31 };
+task[4].ComputationCosts = {75, 51, 59 };
+task[5].ComputationCosts = {5, 9, 4 };
+task[6].ComputationCosts = {48, 36, 51 };
+task[7].ComputationCosts = {43, 39, 40 };
+task[8].ComputationCosts = {9, 11, 17 };
+task[9].ComputationCosts = {5, 9, 3 };
+
+num_task:10
+DAG[0] = { 0, 53, 21, 33, 22, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 58, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 82, 0, 6, 55, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 46, 0, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 5, 0, 16, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 11 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 26 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 22 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 34 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {11, 15, 6 };
+task[1].ComputationCosts = {46, 45, 18 };
+task[2].ComputationCosts = {34, 21, 16 };
+task[3].ComputationCosts = {9, 23, 18 };
+task[4].ComputationCosts = {42, 29, 33 };
+task[5].ComputationCosts = {4, 7, 3 };
+task[6].ComputationCosts = {27, 20, 29 };
+task[7].ComputationCosts = {24, 22, 29 };
+task[8].ComputationCosts = {7, 11, 12 };
+task[9].ComputationCosts = {10, 19, 6 };
+
+num_task:11
+DAG[0] = { 0, 10, 17, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 78, 0, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 9, 0, 32, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 73, 0, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 52, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 34, 0, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {43, 29, 34 };
+task[1].ComputationCosts = {4, 7, 3 };
+task[2].ComputationCosts = {28, 21, 30 };
+task[3].ComputationCosts = {24, 22, 23 };
+task[4].ComputationCosts = {5, 7, 11 };
+task[5].ComputationCosts = {4, 3, 8 };
+task[6].ComputationCosts = {4, 13, 12 };
+task[7].ComputationCosts = {15, 19, 31 };
+task[8].ComputationCosts = {9, 22, 17 };
+task[9].ComputationCosts = {10, 20, 7 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:11
+DAG[0] = { 0, 26, 76, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 50, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 7, 21, 0, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 20, 0, 35, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {33, 22, 26 };
+task[1].ComputationCosts = {4, 7, 3 };
+task[2].ComputationCosts = {21, 16, 23 };
+task[3].ComputationCosts = {18, 17, 22 };
+task[4].ComputationCosts = {6, 10, 11 };
+task[5].ComputationCosts = {8, 15, 5 };
+task[6].ComputationCosts = {10, 9, 8 };
+task[7].ComputationCosts = {14, 17, 11 };
+task[8].ComputationCosts = {17, 11, 16 };
+task[9].ComputationCosts = {11, 26, 10 };
+task[10].ComputationCosts = {12, 15, 17 };
+
+num_task:10
+DAG[0] = { 0, 41, 22, 71, 40, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 80, 14, 83, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 0, 71, 54, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 29, 34, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 55, 0, 31, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 68 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 84 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 52 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 21 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {14, 20, 8 };
+task[1].ComputationCosts = {73, 71, 29 };
+task[2].ComputationCosts = {53, 32, 25 };
+task[3].ComputationCosts = {13, 33, 26 };
+task[4].ComputationCosts = {65, 44, 51 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {42, 31, 45 };
+task[7].ComputationCosts = {37, 34, 35 };
+task[8].ComputationCosts = {8, 10, 15 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:11
+DAG[0] = { 0, 45, 45, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 71, 11, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 62, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 65, 42, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 56, 72, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {61, 41, 48 };
+task[1].ComputationCosts = {5, 8, 4 };
+task[2].ComputationCosts = {39, 29, 42 };
+task[3].ComputationCosts = {35, 32, 33 };
+task[4].ComputationCosts = {8, 9, 15 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {6, 16, 14 };
+task[7].ComputationCosts = {21, 28, 43 };
+task[8].ComputationCosts = {12, 29, 23 };
+task[9].ComputationCosts = {14, 26, 11 };
+task[10].ComputationCosts = {4, 5, 6 };
+
+num_task:11
+DAG[0] = { 0, 51, 72, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 71, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 17, 84, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 66, 82, 34, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 81, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 39, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 44, 0, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {71, 48, 56 };
+task[1].ComputationCosts = {5, 9, 4 };
+task[2].ComputationCosts = {45, 34, 48 };
+task[3].ComputationCosts = {40, 36, 38 };
+task[4].ComputationCosts = {8, 10, 16 };
+task[5].ComputationCosts = {5, 4, 9 };
+task[6].ComputationCosts = {7, 18, 16 };
+task[7].ComputationCosts = {24, 31, 49 };
+task[8].ComputationCosts = {15, 33, 27 };
+task[9].ComputationCosts = {16, 30, 12 };
+task[10].ComputationCosts = {4, 6, 8 };
+
+num_task:10
+DAG[0] = { 0, 83, 11, 57, 66, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 22, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 80, 0, 34, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 50, 0, 18, 62, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 0, 83, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 27 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 56 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 51 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 35 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {13, 19, 8 };
+task[1].ComputationCosts = {71, 69, 28 };
+task[2].ComputationCosts = {52, 32, 25 };
+task[3].ComputationCosts = {13, 33, 26 };
+task[4].ComputationCosts = {64, 43, 50 };
+task[5].ComputationCosts = {5, 8, 4 };
+task[6].ComputationCosts = {41, 31, 44 };
+task[7].ComputationCosts = {36, 33, 34 };
+task[8].ComputationCosts = {8, 9, 15 };
+task[9].ComputationCosts = {5, 4, 9 };
+
+num_task:30
+DAG[0] = { 0, 9, 58, 49, 38, 5, 63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 0, 0, 58, 40, 66, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 0, 6, 53, 0, 0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 0, 0, 0, 0, 69, 0, 65, 0, 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 15, 0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 0, 0, 74, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[11] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 77, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[12] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[13] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 81, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[14] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 83, 18, 0, 17, 0, 0, 0, 0, 0, 0, 0 };
+DAG[15] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 58, 82, 0, 0, 0, 0, 0, 0, 0 };
+DAG[16] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 0, 54, 0, 0, 0, 0, 0, 0, 0 };
+DAG[17] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 35, 58, 0, 0, 0, 0, 0, 0, 0 };
+DAG[18] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34, 0, 20, 0, 0, 0, 0, 0, 0, 0 };
+DAG[19] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 84, 0, 0, 0, 44, 0, 0 };
+DAG[20] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 76, 0, 42, 0, 0, 0 };
+DAG[21] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 83, 0, 17, 0, 0, 20, 0 };
+DAG[22] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 0, 0 };
+DAG[23] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 74 };
+DAG[24] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 58 };
+DAG[25] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16 };
+DAG[26] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 68 };
+DAG[27] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 30 };
+DAG[28] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50 };
+DAG[29] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {10, 8, 15 };
+task[1].ComputationCosts = {48, 55, 58 };
+task[2].ComputationCosts = {29, 33, 12 };
+task[3].ComputationCosts = {27, 57, 46 };
+task[4].ComputationCosts = {27, 20, 19 };
+task[5].ComputationCosts = {20, 24, 38 };
+task[6].ComputationCosts = {5, 4, 9 };
+task[7].ComputationCosts = {6, 16, 14 };
+task[8].ComputationCosts = {20, 27, 42 };
+task[9].ComputationCosts = {12, 29, 23 };
+task[10].ComputationCosts = {14, 26, 11 };
+task[11].ComputationCosts = {4, 5, 6 };
+task[12].ComputationCosts = {22, 26, 30 };
+task[13].ComputationCosts = {54, 56, 33 };
+task[14].ComputationCosts = {16, 38, 40 };
+task[15].ComputationCosts = {18, 30, 31 };
+task[16].ComputationCosts = {47, 37, 61 };
+task[17].ComputationCosts = {27, 19, 48 };
+task[18].ComputationCosts = {20, 15, 22 };
+task[19].ComputationCosts = {30, 19, 32 };
+task[20].ComputationCosts = {17, 35, 19 };
+task[21].ComputationCosts = {51, 57, 28 };
+task[22].ComputationCosts = {30, 28, 19 };
+task[23].ComputationCosts = {11, 19, 8 };
+task[24].ComputationCosts = {22, 16, 19 };
+task[25].ComputationCosts = {38, 25, 61 };
+task[26].ComputationCosts = {31, 30, 35 };
+task[27].ComputationCosts = {26, 39, 42 };
+task[28].ComputationCosts = {37, 31, 24 };
+task[29].ComputationCosts = {15, 23, 14 };
+
+num_task:31
+DAG[0] = { 0, 13, 27, 54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[1] = { 0, 0, 0, 0, 0, 58, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[2] = { 0, 0, 0, 0, 0, 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[3] = { 0, 0, 0, 0, 50, 81, 77, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[4] = { 0, 0, 0, 0, 0, 0, 0, 0, 81, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[5] = { 0, 0, 0, 0, 0, 0, 0, 17, 0, 32, 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[6] = { 0, 0, 0, 0, 0, 0, 0, 0, 39, 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[7] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[8] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[9] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[10] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[11] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 76, 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[12] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 80, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[13] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[14] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 66, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[15] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 41, 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[16] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 57, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[17] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 76, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+DAG[18] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 0, 0, 0, 0, 0, 0, 0 };
+DAG[19] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0 };
+DAG[20] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 0 };
+DAG[21] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 40, 0, 0, 0, 0, 0, 0, 0 };
+DAG[22] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 66, 77, 0, 0, 0, 0 };
+DAG[23] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0, 0, 0 };
+DAG[24] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 0, 0, 0 };
+DAG[25] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 34, 57, 0 };
+DAG[26] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33, 0, 0, 0 };
+DAG[27] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 83 };
+DAG[28] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29 };
+DAG[29] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19 };
+DAG[30] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+
+ComputationCosts:
+p1:    p2:    p3:    
+task[0].ComputationCosts = {19, 15, 11 };
+task[1].ComputationCosts = {42, 32, 29 };
+task[2].ComputationCosts = {20, 24, 36 };
+task[3].ComputationCosts = {5, 4, 9 };
+task[4].ComputationCosts = {6, 16, 14 };
+task[5].ComputationCosts = {20, 26, 41 };
+task[6].ComputationCosts = {12, 28, 22 };
+task[7].ComputationCosts = {13, 25, 10 };
+task[8].ComputationCosts = {4, 5, 6 };
+task[9].ComputationCosts = {22, 25, 29 };
+task[10].ComputationCosts = {51, 53, 31 };
+task[11].ComputationCosts = {15, 36, 38 };
+task[12].ComputationCosts = {18, 29, 30 };
+task[13].ComputationCosts = {45, 35, 58 };
+task[14].ComputationCosts = {26, 18, 45 };
+task[15].ComputationCosts = {20, 15, 22 };
+task[16].ComputationCosts = {29, 19, 31 };
+task[17].ComputationCosts = {17, 16, 33 };
+task[18].ComputationCosts = {9, 18, 20 };
+task[19].ComputationCosts = {23, 13, 12 };
+task[20].ComputationCosts = {29, 34, 58 };
+task[21].ComputationCosts = {28, 56, 43 };
+task[22].ComputationCosts = {35, 19, 12 };
+task[23].ComputationCosts = {38, 37, 44 };
+task[24].ComputationCosts = {25, 38, 40 };
+task[25].ComputationCosts = {36, 30, 24 };
+task[26].ComputationCosts = {14, 22, 13 };
+task[27].ComputationCosts = {28, 33, 21 };
+task[28].ComputationCosts = {26, 27, 45 };
+task[29].ComputationCosts = {20, 11, 28 };
+task[30].ComputationCosts = {13, 29, 26 };
+
